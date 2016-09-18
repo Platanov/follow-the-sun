@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/streets/letters"
+	$basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	$surfaceprop	"plastic"
+	$model		1
+	$selfillum		1
+} 

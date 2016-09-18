@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture	fts/concrete_sidewalk
+	$surfaceprop	concrete
+}

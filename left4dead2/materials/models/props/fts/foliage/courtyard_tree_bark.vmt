@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/foliage/courtyard_tree_bark"
+	$model		1
+	$surfaceprop	"wood"
+} 

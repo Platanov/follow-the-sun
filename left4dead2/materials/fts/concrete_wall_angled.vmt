@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture	fts/concrete_wall_angled
+	$bumpmap	fts/concrete_wall_angled_normal
+	$surfaceprop	concrete
+}

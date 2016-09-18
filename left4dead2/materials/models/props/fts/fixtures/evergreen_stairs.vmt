@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/evergreen_stairs"
+	$surfaceprop	"metal"
+	$model		1
+	$bumpmap	"models/props/fts/fixtures/evergreen_stairs_normal"
+
+	$phong			1
+	$phongboost 		1
+	$phongfresnelranges	"[.5 .75 1]"
+	$phongexponent		15
+} 

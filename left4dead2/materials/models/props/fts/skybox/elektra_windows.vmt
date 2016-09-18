@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/skybox/elektra_windows"
+	$model		1
+} 

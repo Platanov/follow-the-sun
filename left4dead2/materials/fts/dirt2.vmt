@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture	fts/dirt2
+	$surfaceprop	dirt
+}

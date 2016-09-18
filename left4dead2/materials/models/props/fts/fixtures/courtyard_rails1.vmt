@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/courtyard_rails1"
+	$surfaceprop	"metal"
+	$model		1
+} 

@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/barriers/chainlink_fence"
+	$surfaceprop	"chainlink"
+	$model		1
+	$envmap		env_cubemap
+	$alphatest	1
+	$AlphaTestReference 0.3
+	$nocull		1
+	$allowalphatocoverage	1
+
+// :((((??????
+//	$FlashlightNoLambert 
+
+// What does it mean to be translucent AND alphatest?
+//	$translucent
+
+// Seriously what in the fuck?
+//	$AllowFenceRenderStateHack 1
+} 

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture			"models/props/fts/streets/big_dumpster"
+	$surfaceprop			"metal"
+	$model				1
+	$bumpmap			"models/props/fts/streets/big_dumpster_normal"
+
+	$phong			1
+	$phongboost 		5
+	$phongfresnelranges	"[.05 .5 1]"
+	$phongexponent		33
+} 

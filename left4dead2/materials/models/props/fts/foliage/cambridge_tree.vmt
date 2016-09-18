@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/foliage/cambridge_tree"
+	$model		1
+} 

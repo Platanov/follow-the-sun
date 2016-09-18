@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/streets/letters"
+	$surfaceprop	"plastic"
+	$model		1
+	$selfillum		1
+} 

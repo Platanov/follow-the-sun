@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/bollard"
+	$surfaceprop	"solidmetal"
+	$model		1
+} 

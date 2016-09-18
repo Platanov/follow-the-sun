@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	fts/decals/leaves
+	$decal		1
+	$alphatest	1
+	$detailscale	.125
+}

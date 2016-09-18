@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/skybox/courtyard_skybuildings"
+	$model		1
+} 

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture	fts/decals/drain_cwm_square
+	$decal		1
+	$translucent	1
+}

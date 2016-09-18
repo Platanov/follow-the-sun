@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/freeway_light"
+	$surfaceprop	"glass"
+	$model		1
+} 

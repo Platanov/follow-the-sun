@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/debris/fts_signboard"
+	$surfaceprop	"metal_box"
+	$model		1
+} 

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/debris/plywood"
+	$surfaceprop	"Wood_Crate"
+	$model		1
+} 

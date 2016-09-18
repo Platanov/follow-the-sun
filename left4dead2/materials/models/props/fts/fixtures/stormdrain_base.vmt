@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/stormdrain_base"
+	$bumpmap	"models/props/fts/fixtures/stormdrain_base_normal"
+	$surfaceprop	"concrete"
+	$model		1
+} 

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/barriers/traffic_cone_tall"
+	$surfaceprop	"plastic_barrel"
+	$model		1
+
+	$bumpmap	"models/props/fts/barriers/traffic_cone_tall_normal"
+	$phong			1
+	$phongboost		1
+	$phongfresnelranges	"[.33 .66 1]"
+	$phongexponent		10
+} 

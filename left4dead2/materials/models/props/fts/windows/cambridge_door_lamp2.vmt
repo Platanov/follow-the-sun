@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/windows/cambridge_door_lamp"
+	$surfaceprop	"glass"
+	$model		1
+	$envmap		env_cubemap
+	$translucent	1
+} 

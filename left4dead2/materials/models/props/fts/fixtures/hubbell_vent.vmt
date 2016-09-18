@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/fixtures/hubbell_vent"
+	$surfaceprop	"metalvent"
+	$model		1
+	$bumpmap	"models/props/fts/fixtures/hubbell_vent_normal"
+
+	$phong			1
+	$phongboost 		1
+	$phongfresnelranges	"[1 1 1]"
+	$phongexponent		25
+} 

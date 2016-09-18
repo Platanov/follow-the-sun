@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	"fts/cinderblock_wall"
+	$surfaceprop	concrete_block
+
+	$bumpmap	"fts/cinderblock_wall_normal"
+}

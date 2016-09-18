@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	fts/decals/curb_moss
+	$decal		1
+	$translucent	1
+	$detailscale	.125
+}

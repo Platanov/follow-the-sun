@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture	"models/props/fts/foliage/ivy_league"
+	$model		1
+	$envmap		env_cubemap
+	$envmaptint	"[.25 1 .25]"
+
+	$alphatest		1
+	$alphatestreference	.75
+	$allowalphatocoverage	1
+
+	$bumpmap		"models/props/fts/foliage/ivy_league_normal"
+	$phong			1
+	$phongboost 		5
+	$phongfresnelranges	"[.05 .5 1]"
+	$phongexponent		33
+} 

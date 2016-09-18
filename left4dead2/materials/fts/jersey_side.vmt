@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	"fts/jersey_side"
+	$surfaceprop	concrete
+
+	$bumpmap	"fts/jersey_side_normal"
+}

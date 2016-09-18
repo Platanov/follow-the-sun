@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	fts/decals/concrete_paint
+	$decal		1
+	$translucent	1
+	$detailscale	.125
+}
