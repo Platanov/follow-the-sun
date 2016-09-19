@@ -27,6 +27,7 @@ left4dead2/gfx
 
 left4dead2/maps/*
 !left4dead2/maps/fts_01.bsp
+!left4dead2/maps/fts_01.nav
 
 left4dead2/materialsrc
 left4dead2/media
